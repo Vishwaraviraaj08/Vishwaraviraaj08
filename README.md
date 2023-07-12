@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ExpressJS and MongoDB**
 
-- 👨‍💻 All of my projects are available at [vishwa-raviraaj.netlify.app](vishwa-raviraaj.netlify.app)
+- 👨‍💻 All of my projects are available at (vishwa-raviraaj.netlify.app)
 
 - 📫 How to reach me **vishwaraviraaj08@gmail.com**
 
